@@ -8,7 +8,7 @@ It analyzes hyper-localized climate inputs, sunlight, space constraints, and soi
 
 ##  Demo & Output
 
-![MicroSprout Output Demo](output.png)
+![MicroSprout Output Demo](MicroSprout-TouchGrass.png)
 
 ---
 
